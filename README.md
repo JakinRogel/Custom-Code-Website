@@ -48,7 +48,7 @@ To view and work with this project, follow these steps:
 
 ## Contributors
 
-- [Your Name]: Project Creator
+- Jakin Rogel: Project Creator
 
 ## License
 
@@ -56,6 +56,6 @@ This project is open-source and available under the [license type, e.g., MIT Lic
 
 ## Contact Information
 
-If you have any questions or need assistance with this project, feel free to reach out to [Your Email Address].
+If you have any questions or need assistance with this project, feel free to reach out.
 
 Thank you for using and contributing to this website project!
